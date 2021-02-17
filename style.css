@@ -16,12 +16,34 @@ section {
 .title {
   flex-direction: column;
   background-color: #375c80;
+  color: #e7ebf0;
 }
 
 .logo {
   font-family: 'Lora', serif;
+  font-size: 5rem;
+  padding-bottom: 50px;
 }
 
 .summary {
   max-width: 600px;
+}
+
+.black {
+  background-color: #030404ff;
+  color: rgb(245, 248, 248);
+}
+
+.golden {
+  background-color: rgb(211, 185, 115);
+  color: rgb(138, 120, 76);
+}
+
+.chocolate {
+  background-color: #5f483a;
+  color: #18110e;
+}
+
+.white {
+  background-color: #fcfdfd;
 }
