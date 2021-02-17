@@ -28,11 +28,12 @@ section {
 .summary {
   font-size: 1.4rem;
   max-width: 740px;
-  margin-bottom: 20px;
+  margin-bottom: 40px;
 }
 
 .quote {
   font-style: italic;
+  letter-spacing: 2px;
 }
 
 .black {
