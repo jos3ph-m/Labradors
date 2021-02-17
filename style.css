@@ -5,6 +5,23 @@
   font-family: 'Rubik', sans-serif;
 }
 
+section {
+  height: 100vh;
+  position: sticky;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.title {
+  flex-direction: column;
+  background-color: #375c80;
+}
+
 .logo {
   font-family: 'Lora', serif;
+}
+
+.summary {
+  max-width: 600px;
 }
