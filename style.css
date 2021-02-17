@@ -26,12 +26,18 @@ section {
 }
 
 .summary {
-  max-width: 600px;
+  font-size: 1.4rem;
+  max-width: 740px;
+  margin-bottom: 20px;
+}
+
+.quote {
+  font-style: italic;
 }
 
 .black {
   background-color: #030404ff;
-  color: rgb(245, 248, 248);
+  color: rgb(34, 34, 34);
 }
 
 .golden {
@@ -40,10 +46,11 @@ section {
 }
 
 .chocolate {
-  background-color: #5f483a;
-  color: #18110e;
+  background-color: #241914;
+  color: #795e4d;
 }
 
 .white {
   background-color: #fcfdfd;
+  color: rgb(190, 190, 190);
 }
