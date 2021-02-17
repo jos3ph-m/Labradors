@@ -36,6 +36,15 @@ section {
   letter-spacing: 2px;
 }
 
+.text {
+  font-size: 5rem;
+}
+
+img {
+  object-fit: cover;
+  border-radius: 25px;
+}
+
 .black {
   background-color: #030404ff;
   color: rgb(34, 34, 34);
