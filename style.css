@@ -13,6 +13,13 @@ section {
   align-items: center;
 }
 
+.col {
+  width: 50%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
 .title {
   flex-direction: column;
   background-color: #375c80;
