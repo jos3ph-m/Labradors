@@ -1,0 +1,1 @@
+WebGLSampler.registerPlugin(ScrollTrigger);
