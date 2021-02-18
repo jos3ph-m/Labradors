@@ -1,4 +1,4 @@
-WebGLSampler.registerPlugin(ScrollTrigger);
+gsap.registerPlugin(ScrollTrigger);
 
 gsap.utils.toArray('.section').forEach((section) => {
   ScrollTrigger.create({
